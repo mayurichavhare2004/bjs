@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Example 1</title>
+<head>
+<body>
+<b>Ram & Sham are good friends</b><br>
+<u>Ram & Sham are good friends</u><br>
+<i>Ram & Sham are good friends</i><br>
+<body>
+<html>
